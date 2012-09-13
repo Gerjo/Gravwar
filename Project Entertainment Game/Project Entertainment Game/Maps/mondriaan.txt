@@ -1,0 +1,23 @@
+background: Backgrounds/Mondriaan 
+backgroundmusic: Mondriaan_Music 
+
+object: BasicShapes/Rectangle 0 0 12 720 
+object: BasicShapes/Rectangle 0 0 1280 12 
+object: BasicShapes/Rectangle 0 704 1280 16 
+object: BasicShapes/Rectangle 1265 0 15 720 
+object: BasicShapes/Rectangle 128 108 266 106  
+object: BasicShapes/Rectangle 146 498 180 46  
+object: BasicShapes/Rectangle 128 335 433 27  
+object: BasicShapes/Rectangle 554 203 26 153 
+object: BasicShapes/Rectangle 533 360 28 199 
+object: BasicShapes/Rectangle 559 354 376 28 
+object: BasicShapes/Rectangle 934 202 26 172 
+object: BasicShapes/Rectangle 934 373 189 176 
+
+item: items/Rocketlauncher 64 50 
+item: items/Grenadelauncher 1186 622 
+
+spawn: 257 273 up 
+spawn: 232 426 down 
+spawn: 1029 290 left 
+spawn: 834 460 right 

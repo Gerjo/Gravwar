@@ -1,0 +1,33 @@
+background: Backgrounds/TheSky 
+backgroundmusic: Hailstorm 
+
+object: BasicShapes/Rectangle 0 0 127 29 
+object: BasicShapes/Rectangle 0 0 25 125 
+object: BasicShapes/Rectangle 0 322 27 398 
+object: BasicShapes/Rectangle 0 685 234 35 
+object: BasicShapes/Rectangle 413 684 333 36 
+object: BasicShapes/Rectangle 815 686 214 34 
+object: BasicShapes/Rectangle 1108 685 172 35 
+object: BasicShapes/Rectangle 1251 616 29 104 
+object: BasicShapes/Rectangle 1252 0 28 431 
+object: BasicShapes/Rectangle 1012 0 268 35 
+object: BasicShapes/Rectangle 497 0 312 70 
+object: BasicShapes/Rectangle 215 0 206 29 
+
+moveableobj: SKY/MovingOBJ_01 161 158 116 33 0 100 1 
+moveableobj: SKY/MovingOBJ_02 201 193 38 310 0 100 1 
+moveableobj: SKY/MovingOBJ_03 164 502 115 30 0 100 1 
+moveableobj: SKY/MovingOBJ_04 475 182 323 21 -100 0 1 
+moveableobj: SKY/MovingOBJ_04 475 479 323 21 100 0 1 
+moveableobj: SKY/MovingOBJ_01 949 158 116 33 0 -100 1 
+moveableobj: SKY/MovingOBJ_02 987 191 38 310 0 -100 1 
+moveableobj: SKY/MovingOBJ_03 952 498 115 30 0 -100 1 
+
+item: items/Rocketlauncher 369 330 
+item: items/Grenadelauncher 891 330 
+item: items/MachineGun 640 330 
+
+spawn: 318 100 up 
+spawn: 113 628 left 
+spawn: 1167 108 up 
+spawn: 908 595 down 

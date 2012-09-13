@@ -1,0 +1,24 @@
+background: Backgrounds/Background_00 
+backgroundmusic: Industrial 
+
+object: BasicShapes/Rectangle 0 0 14 720 
+object: BasicShapes/Rectangle 0 706 1280 14 
+object: BasicShapes/Rectangle 0 0 1280 14 
+object: BasicShapes/Rectangle 1266 0 14 720 
+object: BasicShapes/Rectangle 525 266 229 187 
+object: BasicShapes/Rectangle 126 112 273 112 
+object: BasicShapes/Rectangle 194 225 140 44 
+object: BasicShapes/Rectangle 194 445 140 44 
+object: BasicShapes/Rectangle 126 490 273 116 
+object: BasicShapes/Rectangle 876 114 273 112 
+object: BasicShapes/Rectangle 944 225 140 44 
+object: BasicShapes/Rectangle 944 445 140 44 
+object: BasicShapes/Rectangle 874 490 273 116 
+
+item: items/Rocketlauncher 1010 362 
+item: items/Grenadelauncher 256 362 
+
+spawn: 80 60 up 
+spawn: 80 660 down 
+spawn: 1200 60 up 
+spawn: 1200 660 down 

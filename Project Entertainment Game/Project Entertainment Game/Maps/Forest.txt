@@ -1,0 +1,28 @@
+background: Backgrounds/Forest 
+backgroundmusic: NightForest 
+
+object: BasicShapes/Rectangle 0 0 1280 22 
+object: BasicShapes/Rectangle 0 0 27 720 
+object: BasicShapes/Rectangle 588 0 73 232 
+object: BasicShapes/Rectangle 325 164 146 54 
+object: BasicShapes/Rectangle 806 166 146 54 
+object: BasicShapes/Rectangle 0 330 321 55 
+object: BasicShapes/Rectangle 963 342 318 55 
+object: BasicShapes/Rectangle 326 492 146 54 
+object: BasicShapes/Rectangle 807 493 148 54 
+object: BasicShapes/Rectangle 587 487 71 234 
+object: BasicShapes/Rectangle 0 697 1280 720 
+object: BasicShapes/Rectangle 1255 0 1280 720 
+
+
+item: items/Grenadelauncher 600 332 
+item: items/Grenadelauncher 210 60  
+item: items/Grenadelauncher 210 660  
+item: items/Grenadelauncher 1010 60  
+item: items/Grenadelauncher 1010 660  
+
+
+spawn: 200 650 down 
+spawn: 200 50 down 
+spawn: 1000 50 down 
+spawn: 1000 650 down 
